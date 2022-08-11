@@ -8,4 +8,4 @@ Colorized letter with each guess. Colorized letters are also shown on the keyboa
 
 Done with JSON data.
 
-Demo:
+Demo: https://mock-wordle.netlify.app
