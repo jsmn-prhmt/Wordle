@@ -13,4 +13,4 @@ Live at https://wordle-react-app.netlify.app
 __Due to Heroku's [Dyano Sleeping](https://devcenter.heroku.com/articles/free-dyno-hours#dyno-sleeping) policy, you might experience an initial delay.__
 
 
-<img width="684" alt="Screenshot 2022-08-11 at 16 06 06" src="https://user-images.githubusercontent.com/52753698/184156972-0a9f05af-762c-4ca2-aa52-36ca8a4770a0.png">
+<img width="584" alt="Screenshot 2022-08-11 at 16 06 06" src="https://user-images.githubusercontent.com/52753698/184156972-0a9f05af-762c-4ca2-aa52-36ca8a4770a0.png">
