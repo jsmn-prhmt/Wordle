@@ -10,6 +10,5 @@ Done with JSON data deployed to Heroku. Frontend deployed to Netlify.
 
 Live at https://wordle-react-app.netlify.app
 
-json-server ./data/db.json --port 3001
 
 <img width="684" alt="Screenshot 2022-08-11 at 16 06 06" src="https://user-images.githubusercontent.com/52753698/184156972-0a9f05af-762c-4ca2-aa52-36ca8a4770a0.png">
