@@ -6,7 +6,7 @@ Colorized letter with each guess. Colorized letters are also shown on the keyboa
 - Yellow means right letter but in the wrong position.
 - Green means both right letter and position.
 
-Done with JSON data, deployed to Heroku. Frontend deployed to Netlify.    
+Done with JSON data, deployed with Heroku and frontend with Netlify.    
 Live at https://wordle-react-app.netlify.app
 
 __Due to Heroku's [Dyano Sleeping](https://devcenter.heroku.com/articles/free-dyno-hours#dyno-sleeping) policy, you might experience an initial delay.__
